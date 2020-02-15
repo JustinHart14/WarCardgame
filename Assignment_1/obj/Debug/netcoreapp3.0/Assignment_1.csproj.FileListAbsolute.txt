@@ -1,0 +1,11 @@
+/Users/Justin/Projects/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.0/Assignment_1.csprojAssemblyReference.cache
+/Users/Justin/Projects/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/Justin/Projects/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.0/Assignment_1.AssemblyInfo.cs
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1.deps.json
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1.runtimeconfig.json
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1.runtimeconfig.dev.json
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1.dll
+/Users/Justin/Projects/Assignment_1/Assignment_1/bin/Debug/netcoreapp3.0/Assignment_1.pdb
+/Users/Justin/Projects/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.0/Assignment_1.dll
+/Users/Justin/Projects/Assignment_1/Assignment_1/obj/Debug/netcoreapp3.0/Assignment_1.pdb
